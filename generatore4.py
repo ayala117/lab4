@@ -12,4 +12,8 @@ for val in squares(a, b):
     print(val)
 # Enter the start value: 2
 # Enter the end value: 5
-# 4,9,16,25
+# 4
+#9
+#16
+#25
+
